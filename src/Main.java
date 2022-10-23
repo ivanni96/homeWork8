@@ -15,6 +15,12 @@ public class Main {
         int[] c = {1, 6, 8, 7, 9};
         System.out.println(c[3]);
 
+        // Задача 2
+
+        System.out.println(a[0] + "," + a[1] + "," + a[2]);
+        System.out.println(b[0] + "," + b[1] + "," + b[2]);
+        System.out.println(c[0] + "," + c[1] + "," + c[2] + "," + c[3]);
+
 
 
 
