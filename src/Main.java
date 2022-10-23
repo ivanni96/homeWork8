@@ -21,6 +21,12 @@ public class Main {
         System.out.println(b[0] + "," + b[1] + "," + b[2]);
         System.out.println(c[0] + "," + c[1] + "," + c[2] + "," + c[3]);
 
+        // Задача 3
+
+        System.out.println(a[2] + "," + a[1] + "," + a[0]);
+        System.out.println(b[2] + "," + b[1] + "," + b[0]);
+        System.out.println(c[3] + "," + c[2] + "," + c[1] + "," + c[0]);
+
 
 
 
